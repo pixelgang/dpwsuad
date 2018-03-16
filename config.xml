@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" ?>
-<widget id="com.pixelgang.hey" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-	<name>heyheyhey</name>
-	<description>the famous saying prank</description>
+<widget id="com.pixelgang.saud" version="1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android = "http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+	<name>Dont Play With Saud</name>
+	<description>the famous saying by Contry Cokkin Saud Shuler</description>
 	<author href="http://www.pixelgangstudios.com" email="support@pixelgangstudios.com">pixel gang studios</author>
 
 	<icon src="www/icon-256.png" width="256" height="256" density="xxxhdpi" />
